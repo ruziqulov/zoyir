@@ -1,0 +1,111 @@
+.a{
+    background-color: rgb(117, 175, 196);
+    text-align: center;
+    border-radius: 20px;
+    font-size: 5
+    
+}
+
+.b{
+    color: rgb(0, 109, 18);
+}
+.d{
+    color: brown;
+}
+.e{
+    background-color: yellow;
+    text-align: center;
+    color: green;
+}
+img{
+    text-align: center;
+}
+
+.f{
+    background-color: yellow;
+    text-align: center;
+    color: green;
+}
+
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+h2, h3 {
+    color: green;
+}
+
+textarea {
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.submit-button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.submit-button:hover {
+    background-color: #45a049;
+}
+
+.table-container {
+    margin-top: 20px;
+}
+
+.table-container h3 {
+    background-color: yellow;
+    padding: 10px;
+    text-align: center;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th {
+    background-color: blue;
+    color: white;
+    padding: 10px;
+    text-align: left;
+}
+
+td {
+    padding: 10px;
+    text-align: left;
+    border: 1px solid #ddd;
+}
+
+.lion {
+    background-color: green;
+    color: white;
+}
+
+.elephant {
+    background-color: red;
+    color: white;
+}
+
+
+.a{
+    border-bottom: 2px;
+}
+
+.a{
+    border: 20px;
+}
+
+
+
+
+
+
+
+
+
